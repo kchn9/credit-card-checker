@@ -101,12 +101,3 @@ const fixCardNumber = wrongCardArr => {
     }
     return wrongCardArr;
 }
-
-
-
-
-
-
-
-
-
